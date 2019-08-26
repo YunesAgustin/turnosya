@@ -68,12 +68,16 @@ export const ON_COMMERCE_UPDATED = 'on_commerce_updated';
 export const ON_COMMERCE_UPDATE_FAIL = 'on_commerce_update_fail';
 export const ON_PROVINCES_READ = 'on_provinces_read';
 export const ON_AREAS_READ = 'on_areas_read';
+export const CUIT_EXISTS = 'cuit_exists';
+export const CUIT_NOT_EXISTS = 'cuit_not_exists';
 
 //Commerces List
 export const ON_COMMERCES_LIST_READING = 'on_commerces_list_reading';
 export const ON_COMMERCES_LIST_READ = 'on_commerces_list_read';
 export const ON_COMMERCES_LIST_SEARCHING = 'on_commerces_list_searching';
 export const ON_COMMERCES_LIST_SEARCHED = 'on_commerces_list_searched';
+export const ON_AREAS_READING = 'on_areas_reading';
+export const ON_AREAS_SEARCH_READ = 'on_areas_search_read';
 
 //Schedule Register
 export const ON_SCHEDULE_VALUE_CHANGE = 'on_register_schedule_value_change';
