@@ -1,4 +1,4 @@
-## Plan de proyecto 
+# Plan de proyecto 
 
-# Criterios de Hecho 
+## Criterios de Hecho 
 1. Testing Cruzado 
